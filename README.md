@@ -21,6 +21,8 @@
 - **[Argument_Parsing.py](./Argument_Parsing.py)**: 关于 `argparse` 参数解析的实战用法。
 - **[tqdm.ipynb](./tqdm.ipynb)**: 优雅的进度条工具 `tqdm` 使用指南。
 - **[Export_environment_dependencies.ipynb](./Export_environment_dependencies.ipynb)**: 环境依赖导出与管理技巧。
+- **[pathlib.py](./pathlib.py)**: 现代 Python 路径处理指南，告别繁琐的 `os.path` 字符串操作。
+- **[pydantic.py](./pydantic.py)**: 数据校验、类型转换、自动文档化
 
 ### 🛠️ 操作系统与工具
 - **[tmux.ipynb](./tmux.ipynb)**: 终端复用器 `tmux` 的层级逻辑与快捷键全纪录。
@@ -64,6 +66,8 @@
 - **[Argument_Parsing.py](./Argument_Parsing.py)**: Practical implementation and usage of the `argparse` module.
 - **[tqdm.ipynb](./tqdm.ipynb)**: A guide to creating elegant progress bars with `tqdm`.
 - **[Export_environment_dependencies.ipynb](./Export_environment_dependencies.ipynb)**: Best practices for managing and exporting Python environment dependencies.
+- **[pathlib.py](./pathlib.py)**:  Modern path handling in Python; moving beyond cumbersome os.path string manipulations.
+- **[pydantic.py](./pydantic.py)**:  Data validation, type coercion, and auto-documentation.
 
 ### 🛠️ OS & Productivity Tools
 - **[tmux.ipynb](./tmux.ipynb)**: A comprehensive guide to `tmux` hierarchy, logic, and essential shortcuts.
