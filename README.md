@@ -27,6 +27,9 @@
 ### 🛠️ 操作系统与工具
 - **[tmux.ipynb](./tmux.ipynb)**: 终端复用器 `tmux` 的层级逻辑与快捷键全纪录。
 
+### Todo List
+- [ ] pytorch基础
+- [ ] R基础学习
 
 ---
 
