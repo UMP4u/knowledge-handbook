@@ -1,0 +1,3 @@
+# 忽略数据和训练日志
+DL_model/data/
+DL_model/runs/
