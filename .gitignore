@@ -1,3 +1,7 @@
 # 忽略数据和训练日志
 DL_model/data/
 DL_model/runs/
+
+# 忽略所有层级目录下的 .pth 文件
+*.pth
+
